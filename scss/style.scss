@@ -1,2 +1,8 @@
-$maincolor: blue;
-h1, p= $maincolor;
+$primecolor: blue;
+$secondcoler: red;
+h1{
+  color:$primecolor;
+}
+footer {
+  color: $secondcoler;
+}
