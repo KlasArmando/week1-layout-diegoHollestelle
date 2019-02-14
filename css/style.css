@@ -4,7 +4,7 @@ h1 {
 
 footer {
   color: red;
-  background-color: black;
+  background-color: white;
 }
 
 .card-deck {
@@ -14,13 +14,19 @@ footer {
 nav {
   color: red;
 }
+nav .nav-tabs {
+  color: red;
+}
 
 .card-text {
   color: red;
 }
+.card-text .card {
+  background-color: red;
+}
 
 body {
-  background-color: white;
+  background-color: black;
 }
 
 /*# sourceMappingURL=style.css.map */
