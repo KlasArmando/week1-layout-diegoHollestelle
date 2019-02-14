@@ -1,8 +1,23 @@
-$primecolor: blue;
-$secondcoler: yellow;
+$primecolor: black;
+$secondcoler: red;
+$thirdcolor: white;
 h1{
   color:$primecolor;
 }
 footer {
   color: $secondcoler;
+  background-color: $primecolor;
 }
+.card-deck{
+  color: $primecolor;
+}
+nav {
+  color: $secondcoler;
+}
+.card-text{
+  color: $secondcoler;
+}
+body{
+  background-color: $thirdcolor;
+}
+

@@ -1,9 +1,26 @@
 h1 {
-  color: blue;
+  color: black;
 }
 
 footer {
   color: red;
+  background-color: black;
+}
+
+.card-deck {
+  color: black;
+}
+
+nav {
+  color: red;
+}
+
+.card-text {
+  color: red;
+}
+
+body {
+  background-color: white;
 }
 
 /*# sourceMappingURL=style.css.map */
